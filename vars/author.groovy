@@ -1,3 +1,7 @@
+def call(){
+  "Vini Jumatul Fitri - Programmer Zaman Now"
+}
+
 def name(){
 	"Vini Jumatul Fitri"
 }
